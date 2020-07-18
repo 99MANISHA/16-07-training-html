@@ -1,0 +1,1 @@
+hello. this is file1 in master branch before merging feature with master
